@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.svg" alt="Listening to the sky with Python" width="100%">
+  <img src="banner.svg" alt="banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Python+developer;Learning+data+science;Turning+radio+telescope+data+into+plots;Searching+for+signals+from+the+sky" alt="Typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Python+developer;Learning+data+science" alt="Typing text" />
 </p>
 
 <p align="center">
